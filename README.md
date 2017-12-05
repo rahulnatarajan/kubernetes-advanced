@@ -1,2 +1,7 @@
-# Advanced Kubernetes course
-This repository contains the course files for my Advanced Kubernetes course on Udemy. See https://www.udemy.com/learn-devops-advanced-kubernetes-usage/?couponCode=GITHUB
+# Advanced Kubernetes concepts
+This repository contains manifests for advanced Kuberentes concepts like Authentication, Authorization, Packaging, Logging and Monitoring
+Helm
+Spinnaker
+Prometheus
+Kubefed
+Auth0
